@@ -1,4 +1,4 @@
-#  FoundationsOfPython
+#  FoundationsOfC
 
 This repository contains my practical assignment of our university's C programming course. The idea is to analyze the data of different electricity sources' usage on different periods of time. The implementation has been done using linked list and dynamic memory allocation.
 
